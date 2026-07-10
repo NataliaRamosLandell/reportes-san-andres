@@ -4,7 +4,7 @@
   "account_id": "act_472133301503876",
   "since": "2026-01-01",
   "until": "today",
-  "period_label": "Historico 2026",
+  "period_label": "2026",
   "period_days": 15,
   "output_dir": "docs",
   "output_filename": "san_andres.html"
