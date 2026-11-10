@@ -4,7 +4,7 @@ on:
   schedule:
     # Se ejecuta automaticamente el dia 1 y el dia 16 de cada mes a las
     # 09:00 hora de Mexico (15:00 UTC). Ajusta la hora si lo prefieres.
-    - cron: '0 15 1,16 * *'
+    - cron: '0 15 * * 1'
   workflow_dispatch:  # permite correrlo manualmente desde la pestaña "Actions"
 
 permissions:
